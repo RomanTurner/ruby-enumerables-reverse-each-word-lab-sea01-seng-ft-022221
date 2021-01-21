@@ -1,3 +1,5 @@
 def reverse_each_word (str)
- 
-  .reverse_each { |v| p v }
+ reverse_array = []
+  
+  
+  .reverse_each { |v| v << reverse_array}
