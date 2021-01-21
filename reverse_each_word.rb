@@ -9,3 +9,6 @@ def reverse_each_word (str)
   end 
   output.join(" ")
 end
+
+def reverse_each_word(str)
+  
