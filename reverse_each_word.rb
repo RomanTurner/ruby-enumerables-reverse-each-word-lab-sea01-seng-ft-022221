@@ -3,7 +3,8 @@ require 'pry'
 def reverse_each_word (str)
   arr = str.split("");
   output = []
-  
+  arr.each do |word|
+    
 end
 
 function wordsReverser(string){
